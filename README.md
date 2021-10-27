@@ -1,9 +1,15 @@
 - 👋 Hi, I’m @jla524
-- 👀 I’m interested in data science and data engineering
-- 🌱 I’m currently learning computer vision
-- 💞️ I’m looking to collaborate on [f1-analysis](https://github.com/jla524/f1-analysis)
+- 👀 I’m interested in data engineering
+- 🌱 I’m currently learning about data warehouse
+- 💞️ I’m looking to collaborate on [f1-api][1]
 - 📫 How to reach me: jla524@sfu.ca
 
-![Jacky's GitHub stats](https://github-readme-stats.vercel.app/api?username=jla524&count_private=true)
+![Jacky's GitHub stats][2]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jla524&layout=compact&hide=jupyter%20notebook)](https://github.com/jla524/github-readme-stats)
+[![Top Langs][3]][4]
+
+
+[1]: https://github.com/jla524/f1-api
+[2]: https://github-readme-stats.vercel.app/api?username=jla524&count_private=true
+[3]: https://github-readme-stats.vercel.app/api/top-langs/?username=jla524&layout=compact&hide=jupyter%20notebook
+[4]: https://github.com/jla524/github-readme-stats
