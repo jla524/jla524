@@ -11,5 +11,5 @@
 
 [1]: https://github.com/jla524/f1-api
 [2]: https://github-readme-stats.vercel.app/api?username=jla524&count_private=true
-[3]: https://github-readme-stats.vercel.app/api/top-langs/?username=jla524&layout=compact&hide=jupyter%20notebook
+[3]: https://github-readme-stats.vercel.app/api/top-langs/?username=jla524&langs_count=6&layout=compact&hide=jupyter%20notebook
 [4]: https://github.com/jla524/github-readme-stats
